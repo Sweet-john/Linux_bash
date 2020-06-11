@@ -6,6 +6,7 @@ User Manual
 Regular Linux command is the same as the command in Linux system (ls, mkdir, who, etc.)
 
 Special command 
+
   exit: quit OS shell
   history: show the historical commands that have been executed before
   go: change the directory
