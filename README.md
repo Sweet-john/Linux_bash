@@ -1,16 +1,16 @@
 # Linux_bash
 Please run in Linux!!
 
-User Manual
+## User Manual
 
 Regular Linux command is the same as the command in Linux system (ls, mkdir, who, etc.)
 
 Special command 
 
-  exit: quit OS shell
-  history: show the historical commands that have been executed before
-  go: change the directory
-  pid: show the pid of the recent 5 child process 
+    exit: quit OS shell
+    history: show the historical commands that have been executed before
+    go: change the directory
+    pid: show the pid of the recent 5 child process 
 
 Redirection
   Standard input is redirected using < ARG
