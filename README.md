@@ -13,15 +13,18 @@ Special command
     pid: show the pid of the recent 5 child process 
 
 Redirection
-  Standard input is redirected using < ARG
-  Standard output is redirected by using > ARG
+
+    Standard input is redirected using < ARG
+    Standard output is redirected by using > ARG
 
 Pipe
-  COMMAND1 | COMMAND2 connects the output of COMMAND1 to the input of COMMAND2 
+
+    COMMAND1 | COMMAND2 connects the output of COMMAND1 to the input of COMMAND2 
 
 Jobs
-  Press Ctrl + C to kill the current child process
-  Press Ctrl + Z to suspend the current running process
-  continue: continue a suspended process
-  jobs: list all the jobs
-  status: print the status of the last command executed
+
+    Press Ctrl + C to kill the current child process
+    Press Ctrl + Z to suspend the current running process
+    continue: continue a suspended process
+    jobs: list all the jobs
+    status: print the status of the last command executed
